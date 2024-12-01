@@ -17,7 +17,7 @@
           <a href="https://github.com/zerox003?tab=repositories" rel="nofollow">Automation cuz lazy</a>
         </li>
         <li>
-          <a href="https://github.com/zerox003?tab=repositories" rel="nofollow">Mainly using <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="width: 20px; height: 20px;"> cuz too lazy to look into <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="width: 20px; height: 20px;"> </a>
+          <a href="https://github.com/zerox003?tab=repositories&q=&type=&language=javascript" rel="nofollow">Mainly using <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="width: 20px; height: 20px;"> cuz too lazy to look into <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="width: 20px; height: 20px;"> </a>
         </li>
         <li>Being awake at horrendous times</li>
       </ul>
