@@ -4,6 +4,8 @@
   <p align="center" dir="auto">
     <a href="https://steamcommunity.com/id/_zer0003/" rel="nofollow">Steam</a>
     •
+    <a href="0x003.dev" rel="nofollow">www</a>
+    •
     <a href="https://discordid.netlify.app/?id=364088100458332170" rel="nofollow">Discord</a>
   </p>
 </header>
@@ -26,7 +28,7 @@
   <section>
     <h4 align="center">My PC's Self-esteem:</h4>
     <p align="center">
-      <img src="https://files.catbox.moe/udbjrp.png" style="max-width: 100%; height: auto;"/><br>
+      <img src="https://files.catbox.moe/wgd758.png" style="max-width: 100%; height: auto;"/><br>
     </p>
   </section>
 <p>    
