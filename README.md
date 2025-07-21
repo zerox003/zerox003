@@ -2,11 +2,11 @@
   <h3 align="center">Welcome to my profile!</h3>
 
   <p align="center" dir="auto">
-    <a href="https://steamcommunity.com/id/_zer0003/" rel="nofollow">Steam</a>
+    <a href="https://steamcommunity.com/id/_zer0003/" rel="nofollow" target="_blank">Steam</a>
     •
-    <a href="0x003.dev" rel="nofollow">www</a>
+    <a href="https://0x003.dev" rel="nofollow" target="_blank">www</a>
     •
-    <a href="https://discordid.netlify.app/?id=364088100458332170" rel="nofollow">Discord</a>
+    <a href="https://discordid.netlify.app/?id=364088100458332170" rel="nofollow" target="_blank">Discord</a>
   </p>
 </header>
   <hr>
